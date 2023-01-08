@@ -1,5 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+header {
+    background: gray;
+    padding: 20px 0;
 }
